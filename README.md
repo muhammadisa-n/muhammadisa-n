@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a campaign-app**
+<!-- 🔭 I’m currently working on **a campaign-app**  -->
  
  🌱 I’m currently learning **Typescript, Go Lang**
 
