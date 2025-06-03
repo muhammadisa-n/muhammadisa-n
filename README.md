@@ -15,7 +15,7 @@
  🌱 I’m currently learning **Typescript, Go Lang**
 
 
-⚡**You Either Die a Hero, or You Live Long Enough To See Yourself Become the Villain.**
+🦇**You either die a hero or you live long enough to see yourself become the villain.**
 
  </div>
  
